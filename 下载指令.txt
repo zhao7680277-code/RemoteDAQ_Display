@@ -1,0 +1,1 @@
+python "D:\软件\stm32cube_fw_f7_v1174\STM32Cube_FW_F7_V1.17.0\RemoteDAQ_Display_提交\download_daq_files.py" COM3
